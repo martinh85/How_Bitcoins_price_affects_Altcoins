@@ -1,7 +1,5 @@
 # How Bitcoin's price affects Altcoins
 
-### Holy grail of crypto trading
-
 Trading cryptocurrencies most profitably means switching effectively between holding altcoins, Bitcoin and FIAT(regular currency). This analysis aims to better understand altcoins behaviour based on Bitcoin's price action, since the correlation with Bitcoin is most relevant fact to lean on.
 
 Historically, altcoin markets tend to rise together. In crypto community, such period is often called "altseason". During that time, most of the altcoins experience parabolic growth followed by equally rapid decline. After altseason prices eventually tend to visit previous bottoms again, accumulation zone.
