@@ -13,7 +13,7 @@ Historically, altcoin markets tend to rise together. In crypto community, such p
 
 #### As the indicator for altcoins volatility we:
 - calculate **daily returns** (percent price change compared to previous day's close) calculated for selected coins,
--identify **median value**, rather than mean value. This approach will exclude price action of outlier coins with abnormal volatility. More sofisticated methods could be definitely used, but for purpose of selecting high volatily days, median meets our expectations.
+- identify **median value**, rather than mean value. This approach will exclude price action of outlier coins with abnormal volatility. More sofisticated methods could be definitely used, but for purpose of selecting high volatily days, median meets our expectations.
 
 Altcoins tend to pump during whole altseason unexpectedly.  So the days when whole markets dumps due to correlation with Bitcoin, should be more frequent.
 
